@@ -1,0 +1,39 @@
+/* Styles pour le plugin */
+
+.calfind {
+    text-align: center;
+    font-family: 'ubuntu', sans-serif; /* Utilisez la police Ubuntu */
+    padding: 20px; /* Exemple de style */
+}
+
+.fullcfinder {
+    text-align: center;
+}
+.valbtn {
+    align-content: center;
+}
+
+
+.input-group {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    align-content: center;
+}
+.widefat {
+    text-align: center;
+}
+
+.table td, .table th {
+    vertical-align: middle; /* Centre le contenu verticalement */
+}
+
+.table th {
+    text-align: center; /* Centre le texte dans les en-têtes */
+}
+
+.table td {
+    min-width: 150px; /* Définit une largeur minimale pour les cellules */
+}
